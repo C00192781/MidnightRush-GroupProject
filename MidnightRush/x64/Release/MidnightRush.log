@@ -1,0 +1,717 @@
+﻿  AudioManager.cpp
+  Background.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Score.h(61,2): warning C4091:  'static ': ignored on left of 'Score' when no variable is declared
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(174,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(175,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(180,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(184,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,107): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,107): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,107): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,107): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,107): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,94): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,94): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,94): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(190,94): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(191,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,106): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,106): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,106): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,106): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,94): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,94): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,94): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(196,94): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(197,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,114): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,114): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,114): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,114): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,114): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(202,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(203,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(209,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(210,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(214,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(215,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(220,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(221,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(226,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(227,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,106): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,106): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,106): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,106): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,94): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,94): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,94): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(233,94): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(234,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,108): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,108): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,108): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,108): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,108): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(239,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(241,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(246,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(247,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(252,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(253,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,108): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,108): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,108): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,108): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,108): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(258,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(259,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,106): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,106): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,106): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,106): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,94): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,94): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,94): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(264,94): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(265,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(270,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(274,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(275,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(279,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(280,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(285,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,102): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,102): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,102): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,102): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,90): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,90): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,90): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(286,90): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,106): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,106): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,106): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,106): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,94): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,94): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,94): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(291,94): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(292,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,106): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,106): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,106): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,106): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,94): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,94): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,94): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(297,94): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,93): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,93): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,93): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,93): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,81): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,81): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,81): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(298,81): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(339,24): warning C4838:  conversion from 'double' to 'const int' requires a narrowing conversion
+  Bullet.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Background.cpp(339,24): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+  CollisionDetection.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Score.h(61,2): warning C4091:  'static ': ignored on left of 'Score' when no variable is declared
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\CollisionDetection.cpp(43,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\CollisionDetection.cpp(118,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\CollisionDetection.cpp(179,36): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\CollisionDetection.cpp(207,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\CollisionDetection.cpp(226,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Controls.cpp
+  Enemy.cpp
+  EnemyAI.cpp
+  EnemyManager.cpp
+  EnemyPaths.cpp
+  Floor.cpp
+  GameOverScreen.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\CollisionDetection.cpp(246,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  GameStateManager.cpp
+  HelpScreen.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\GameOverScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Hostage.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\HelpScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  HostageManager.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  LevelState.cpp
+  LicenceScreen.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  LoadScreen.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\LicenceScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\LoadScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Main.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\LoadScreen.cpp(54,18): warning C4305:  '+=': truncation from 'double' to 'float'
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Score.h(61,2): warning C4091:  'static ': ignored on left of 'Score' when no variable is declared
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,48): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,48): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,48): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,48): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,48): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,28): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,28): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,28): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,28): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(52,28): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,54): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,54): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,54): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,54): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,54): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,34): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,34): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,34): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,34): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(53,34): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,50): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,50): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,50): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,50): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,50): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,30): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,30): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,30): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,30): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(54,30): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,58): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,58): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,58): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,58): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,58): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,38): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,38): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,38): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,38): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(55,38): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,60): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,60): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,60): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,60): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,60): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,40): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,40): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,40): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,40): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(56,40): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,60): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,60): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,60): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,60): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,60): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,40): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,40): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,40): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,40): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(57,40): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,68): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,68): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,68): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,68): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,68): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,48): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,48): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,48): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,48): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(58,48): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,50): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,50): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,50): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,50): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,50): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,30): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,30): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,30): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,30): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(59,30): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,60): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,60): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,60): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,60): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,60): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,40): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,40): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,40): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,40): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(60,40): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,62): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,62): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,62): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,62): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,62): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,42): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,42): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,42): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,42): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(61,42): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,64): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,64): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,64): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,64): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,64): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,44): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,44): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,44): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,44): warning C4244:             T=unsigned int
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(62,44): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(148,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(192,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(220,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(242,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(244,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(266,44): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(298,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(306,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(353,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(362,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(377,26): warning C4553:  '==': result of expression not used; did you intend '='?
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(395,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(450,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(479,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(500,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(501,24): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(544,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(570,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(604,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(606,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,61): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,61): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,61): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,61): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,61): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,37): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,37): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,37): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,37): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(720,37): warning C4244:         ]
+  Menu.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Main.cpp(723,45): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(26,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(26,43): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(26,43): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(26,43): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(26,43): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(33,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(33,43): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(33,43): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(33,43): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(33,43): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,58): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,58): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,58): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,58): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,58): warning C4244:         ]
+  Compiling...
+  MenuManager.cpp
+  Options.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,43): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,43): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,43): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Menu.cpp(40,43): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(31,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(31,43): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(31,43): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(31,43): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(31,43): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(37,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(37,43): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(37,43): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(37,43): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(37,43): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,58): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,58): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,58): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,58): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,58): warning C4244:         ]
+  Pause.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,43): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,43): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,43): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Options.cpp(43,43): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(28,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(28,41): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(28,41): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(28,41): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(28,41): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,56): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,56): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,56): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,56): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,56): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,41): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,41): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,41): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(34,41): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,56): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,56): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,56): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,56): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,56): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,41): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,41): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,41): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(40,41): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,56): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,56): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,56): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,56): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,56): warning C4244:         ]
+  Player.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,41): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,41): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,41): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Pause.cpp(46,41): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Player.cpp(462,36): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Player.cpp(470,37): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Score.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Player.cpp(479,36): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  ScreenManager.cpp
+  SoundScreen.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Score.h(61,2): warning C4091:  'static ': ignored on left of 'Score' when no variable is declared
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,56): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,56): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,56): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,56): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,56): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,41): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,41): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,41): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(59,41): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(68,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(68,43): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(68,43): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(68,43): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(68,43): warning C4244:         ]
+  SplashScreen.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(74,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(74,43): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(74,43): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(74,43): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SoundScreen.cpp(74,43): warning C4244:         ]
+  Wall.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\SplashScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  WallManager.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  Weapon.cpp
+  Winner.cpp
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\MidnightRush\Winner.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  678 of 693 functions (97.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MidnightRush.vcxproj -> D:\_GIT STUFF\GIT STUFF\Midnight Clone\MidnightRush-GroupProject\x64\Release\MidnightRush.exe

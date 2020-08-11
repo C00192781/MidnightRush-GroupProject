@@ -1,0 +1,906 @@
+﻿  AudioManager.cpp
+  Background.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Score.h(61,2): warning C4091:  'static ': ignored on left of 'Score' when no variable is declared
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(15,28): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(22,28): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(79,28): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(173,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(174,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(179,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(183,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,107): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,107): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,107): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,107): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,107): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,94): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,94): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,94): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(189,94): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(190,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,106): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,106): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,106): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,106): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,94): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,94): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,94): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(195,94): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(196,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,114): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,114): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,114): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,114): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,114): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(201,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(202,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(208,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(209,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(213,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(214,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(219,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(220,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(225,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(226,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,106): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,106): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,106): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,106): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,94): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,94): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,94): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(232,94): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(233,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,108): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,108): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,108): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,108): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,108): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(238,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(240,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(245,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(246,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(251,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(252,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,108): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,108): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,108): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,108): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,108): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(257,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(258,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,106): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,106): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,106): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,106): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,94): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,94): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,94): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(263,94): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(264,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(269,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(273,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(274,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(278,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(279,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(284,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,102): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,102): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,102): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,102): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,102): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,90): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,90): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,90): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,90): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(285,90): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,106): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,106): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,106): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,106): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,94): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,94): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,94): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(290,94): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(291,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,106): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,106): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,106): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,106): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,106): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,94): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,94): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,94): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,94): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(296,94): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,93): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,93): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,93): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,93): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,93): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,81): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,81): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,81): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,81): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(297,81): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(338,24): warning C4838:  conversion from 'double' to 'const int' requires a narrowing conversion
+  Bullet.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Background.cpp(338,24): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+  CollisionDetection.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Score.h(61,2): warning C4091:  'static ': ignored on left of 'Score' when no variable is declared
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(32,28): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(34,21): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(43,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(89,28): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(118,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(163,28): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(178,36): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(206,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(225,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Controls.cpp
+  Enemy.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\CollisionDetection.cpp(245,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Enemy.cpp(299,12): warning C4018:  '<': signed/unsigned mismatch
+  EnemyAI.cpp
+  EnemyManager.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Enemy.cpp(386,12): warning C4018:  '>=': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\EnemyManager.cpp(16,28): warning C4018:  '<': signed/unsigned mismatch
+  EnemyPaths.cpp
+  Floor.cpp
+  GameOverScreen.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\EnemyManager.cpp(24,28): warning C4018:  '<': signed/unsigned mismatch
+  GameStateManager.cpp
+  HelpScreen.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\GameOverScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Hostage.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\HelpScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  HostageManager.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  LevelState.cpp
+  LicenceScreen.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\HostageManager.cpp(16,28): warning C4018:  '<': signed/unsigned mismatch
+  LoadScreen.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\LicenceScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\LoadScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Main.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\LoadScreen.cpp(54,18): warning C4305:  '+=': truncation from 'double' to 'float'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Score.h(61,2): warning C4091:  'static ': ignored on left of 'Score' when no variable is declared
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,48): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,48): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,48): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,48): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,48): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,28): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,28): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,28): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,28): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(52,28): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,54): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,54): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,54): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,54): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,54): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,34): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,34): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,34): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,34): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(53,34): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,50): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,50): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,50): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,50): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,50): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,30): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,30): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,30): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,30): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(54,30): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,58): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,58): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,58): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,58): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,58): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,38): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,38): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,38): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,38): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(55,38): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,60): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,60): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,60): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,60): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,60): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,40): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,40): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,40): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,40): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(56,40): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,60): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,60): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,60): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,60): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,60): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,40): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,40): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,40): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,40): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(57,40): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,68): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,68): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,68): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,68): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,68): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,48): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,48): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,48): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,48): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(58,48): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,50): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,50): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,50): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,50): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,50): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,30): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,30): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,30): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,30): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(59,30): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,60): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,60): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,60): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,60): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,60): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,40): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,40): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,40): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,40): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(60,40): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,62): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,62): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,62): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,62): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,62): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,42): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,42): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,42): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,42): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(61,42): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,64): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,64): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,64): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,64): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,64): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,44): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,44): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,44): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,44): warning C4244:             T=unsigned int
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(62,44): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(148,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(192,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(220,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(242,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(244,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(266,44): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(298,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(306,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(353,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(362,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(377,26): warning C4553:  '==': result of expression not used; did you intend '='?
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(395,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(450,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(474,26): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(479,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(484,32): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(500,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(501,24): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(544,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(570,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(604,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(606,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(690,63): error C2664:  'void Player::Load(sf::Texture &,sf::Texture &)': cannot convert argument 2 from 'sf::Texture' to 'sf::Texture &'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(690,61): message :  A non-const reference may only be bound to an lvalue
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,61): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,61): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,61): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,61): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,61): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,37): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,37): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,37): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,37): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(720,37): warning C4244:         ]
+  Menu.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Main.cpp(723,45): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(26,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(26,43): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(26,43): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(26,43): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(26,43): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(33,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(33,43): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(33,43): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(33,43): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(33,43): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,58): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,58): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,58): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,58): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,58): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,43): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,43): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,43): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(40,43): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(27,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(34,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(41,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(60,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(62,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(64,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(68,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(70,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(74,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(76,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(87,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(89,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(93,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(95,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(99,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Menu.cpp(101,1): error C4996:  'sf::Text::setColor': was declared deprecated
+  Generating Code...
+  Compiling...
+  MenuManager.cpp
+  Options.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(31,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(31,43): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(31,43): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(31,43): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(31,43): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(37,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(37,43): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(37,43): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(37,43): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(37,43): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,58): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,58): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,58): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,58): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,58): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,43): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,43): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,43): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(43,43): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(32,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(38,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(44,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(63,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(65,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(70,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(72,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(77,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(79,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(93,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(95,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(100,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(102,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(107,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(109,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(118,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(119,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Options.cpp(120,1): error C4996:  'sf::Text::setColor': was declared deprecated
+  Pause.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(28,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(28,41): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(28,41): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(28,41): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(28,41): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,56): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,56): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,56): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,56): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,56): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,41): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,41): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,41): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(34,41): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,56): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,56): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,56): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,56): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,56): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,41): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,41): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,41): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(40,41): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,56): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,56): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,56): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,56): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,56): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,41): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,41): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,41): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(46,41): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(29,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(35,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(41,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(47,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(67,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(69,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(74,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(76,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(81,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(83,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(88,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(90,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(102,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(104,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(109,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(111,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(116,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(118,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(123,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(125,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(134,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(135,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(136,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Pause.cpp(137,1): error C4996:  'sf::Text::setColor': was declared deprecated
+  Player.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(100,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(104,49): error C2664:  'void Bullet::Load(sf::Texture &)': cannot convert argument 1 from 'sf::Texture' to 'sf::Texture &'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(104,47): message :  A non-const reference may only be bound to an lvalue
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(132,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(171,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(462,36): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(470,37): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(479,36): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(488,28): warning C4018:  '<': signed/unsigned mismatch
+  Score.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Player.cpp(490,21): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Score.h(61,2): warning C4091:  'static ': ignored on left of 'Score' when no variable is declared
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Score.cpp(34,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Score.cpp(42,1): error C4996:  'sf::Text::setColor': was declared deprecated
+  ScreenManager.cpp
+  SoundScreen.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,56): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,56): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,56): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,56): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,56): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,41): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,41): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,41): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,41): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(59,41): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(68,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(68,43): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(68,43): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(68,43): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(68,43): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(74,43): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(74,43): warning C4244:         with
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(74,43): warning C4244:         [
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(74,43): warning C4244:             T=float
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(74,43): warning C4244:         ]
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(48,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(54,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(60,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(69,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(75,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(103,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(105,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(110,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(112,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(117,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(119,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(132,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(134,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(139,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(141,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(146,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(148,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(158,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(160,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(167,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(169,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(220,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(221,1): error C4996:  'sf::Text::setColor': was declared deprecated
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SoundScreen.cpp(222,1): error C4996:  'sf::Text::setColor': was declared deprecated
+  SplashScreen.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SFML\include\SFML\Graphics\Text.hpp(210): message :  see declaration of 'sf::Text::setColor'
+  Wall.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\SplashScreen.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  WallManager.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Wall.cpp(59,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Bullet.h(37,20): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  Weapon.cpp
+  Winner.cpp
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\WallManager.cpp(16,28): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+D:\_GIT STUFF\Midnight Rush Reboot\MidnightRush\MidnightRush\Winner.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
